@@ -6,7 +6,7 @@ from datetime import datetime
 from src.config import DATE_FORMAT
 
 class FeatureEngineer:
-    """Class for creating and transforming features"""
+    """ Class for creating and transforming features """
     
     def __init__(self, df: pd.DataFrame):
         """
