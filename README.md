@@ -148,7 +148,8 @@ We welcome contributions to enhance the functionality of this project. Follow th
 
 ## License
 This project is licensed under the MIT License. For more details, see the `LICENSE` file.
-
+[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)  
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 ---
 
 ## Acknowledgments
