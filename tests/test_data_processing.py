@@ -52,4 +52,3 @@ def test_format_dates(sample_data):
     processed_df = processor.format_dates(['order_date'])
     
     assert pd.api.types.is_datetime64_any_dtype(processed_df['order_date'])
-
