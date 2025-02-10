@@ -42,6 +42,7 @@ ecom_data_analysis/
 └── .gitignore
 ```
 
+
 ### Description of Components
 
 #### **Data Directory**
