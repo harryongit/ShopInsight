@@ -7,7 +7,6 @@ The project encompasses the complete data analysis pipeline, integrating data cl
 
 ![ecommerce-01](https://github.com/user-attachments/assets/a2a32541-7fd0-48b9-a7ab-2a3b690e6d88)
 
-
 ## Directory Structure
 
 ```
