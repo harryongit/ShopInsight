@@ -11,6 +11,8 @@ The project encompasses the complete data analysis pipeline, integrating data cl
 ## Directory Structure
 
 ```
+
+
 shopinsight/
 ├── data/
 │   ├── raw/
